@@ -1,0 +1,30 @@
+.colorForword{
+    color: #726c96;
+   
+}
+.forBorder{
+border-bottom-style: none;
+border-radius: 3px;
+border-bottom-left-radius: 0px 0px;
+border-bottom-right-radius: 0px 0px;
+/* box-shadow: 0px -10px 10px -10px black; */
+box-shadow: -3px 0 5px -4px black, 3px 0 5px -4px black, 0px -5px 11px -13px black;
+}
+.forBottamshadow{
+    box-shadow: 3px 3px 5px 6px #ccc;  
+}
+.buttonSmall{
+    display: flex !important;
+    justify-content: center;
+    margin: auto;
+    max-width: 52px;
+    max-height: 26px;
+    border-radius: 10px !important;
+    background-color: #e6e6f2 !important;
+    color: #18a0fb !important;
+    border: none !important;
+}
+.deleteButton{
+    background-color: #6d5bd0 !important;
+    border: none !important;
+}
